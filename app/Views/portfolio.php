@@ -134,11 +134,11 @@
 
         <li>
 
-            Portofolio:
+            Project CodeIgniter 4:
 
-            <a href="https://Violaaulia.github.io/portofolio-violaauliaramadhana/" target="_blank">
+            <a href="https://github.com/ViolaAulia/portfolio-ci4.git" target="_blank">
 
-                Lihat Portofolio
+                Lihat Proyek
 
             </a>
 

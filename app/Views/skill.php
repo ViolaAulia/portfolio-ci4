@@ -7,7 +7,7 @@
     <li>Bootstrap</li>
     <li>GitHub</li>
     <li>Responsive</li>
-    <li>JavaScript</li>
+    <li>PHP Dasar</li>
     <li>CodeIgniter 4</li>
 </ul>
 <?= $this->endSection() ?>
