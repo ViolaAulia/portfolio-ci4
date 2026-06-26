@@ -21,6 +21,7 @@ Website portofolio pribadi yang dibuat menggunakan CodeIgniter 4 dan Bootstrap s
 - MySQL
 - phpMyAdmin
 
-VIOLA AULIA RAMADHANA
-D3 TEKNIK KOMPUTER
-POLITEKNIK NEGERI JEMBER
+## Pengembang
+**VIOLA AULIA RAMADHANA**
+ D3 TEKNIK KOMPUTER
+ POLITEKNIK NEGERI JEMBER
